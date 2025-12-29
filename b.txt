@@ -1,0 +1,2 @@
+this is function used in branch b
+branch a does not have this file
